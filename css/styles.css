@@ -1,21 +1,19 @@
 .top-container{
     background-color: #68B0AB;
-    position: relative;
     padding-top: 15%;
 }
 .middle-container{
     background-color: teal;
-    position: relative;
     
 } 
 .bottom-container{
     background-color: thistle;
-    position: relative;  
 } 
 body{
     margin: 0px;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
     
 }
 h1{
@@ -102,7 +100,6 @@ h3{
     position: relative;
     display: inline;
     bottom: 190px;
-    left:30%;
-    text-align: left;
+    text-align: center;
     font-family: 'Ranchers', cursive;
 }
