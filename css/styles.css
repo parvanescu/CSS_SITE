@@ -3,17 +3,15 @@
     position: relative;
     padding-top: 15%;
 }
-/* .middle-container{
-    height: 200px;
-    width: 200px;
+.middle-container{
     background-color: teal;
+    position: relative;
     
-} */
-/* .bottom-container{
-    height: 200px;
-    width: 200px;
-    background-color: thistle;  
-} */
+} 
+.bottom-container{
+    background-color: thistle;
+    position: relative;  
+} 
 body{
     margin: 0px;
     text-align: center;
@@ -74,4 +72,37 @@ h3{
     position: absolute;
     right: 100px;
     top: 300px
+}
+
+.description-photos{
+    height: 15%;
+    width: 15%;
+}
+
+#description-paragraph{
+    width: 30%;
+    margin: auto;
+}
+
+#skills-photo{
+    position: relative;
+    display: inline;
+    right: 35%;
+    
+}
+
+#skills-header{
+    position: absolute;
+    display: inline;
+    left: 10%;
+    top: 38%;
+}
+
+#skills-list{
+    position: relative;
+    display: inline;
+    bottom: 190px;
+    left:30%;
+    text-align: left;
+    font-family: 'Ranchers', cursive;
 }
